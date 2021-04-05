@@ -1,0 +1,14 @@
+#navbar{
+    background-color: #000 !important;
+    color: #fff !important;
+    font-size: 15px;
+    font-family: 'Lato', sans-serif;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: bold;
+
+}
+
+div ul li >a{
+    color: #fff !important ;
+}
