@@ -55,6 +55,25 @@ div ul li >a{
 
 }
 
+.etiquetas:hover{
+    
+    background-color: grey;
+    text-transform: uppercase;
+    color: #f1f1f1;
+    font-weight: 600;
+    margin-left: auto;
+    padding-left: 20px;
+    text-decoration: none;
+}
+.cuerpo{
+    margin-left: 20px;
+}
+.link{
+    display: block;
+}
+a{
+    color: #000;
+}
 
 @media screen and (min-width:768px){
     
@@ -78,6 +97,8 @@ div ul li >a{
 
     .sidebar{
         width: 35%;
+       
+        
 }
 
 
