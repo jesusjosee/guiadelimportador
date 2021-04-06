@@ -74,6 +74,9 @@ div ul li >a{
 a{
     color: #000;
 }
+.boton{
+    margin-left: 160px;
+}
 
 @media screen and (min-width:768px){
     
@@ -97,10 +100,11 @@ a{
 
     .sidebar{
         width: 35%;
-       
-        
-}
+    }
 
+    .boton{
+        margin-left: 600px;
+    }
 
     
 } 
