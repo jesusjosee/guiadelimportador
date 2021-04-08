@@ -1,0 +1,28 @@
+.parrafo{
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: justify;
+    font-size: 25px;
+}
+
+.parrafo-negrita{
+    font-weight: bold;
+}
+
+.centrar{
+    display: flex;
+    justify-content: center;
+}
+
+.link-pagina{
+    text-decoration:underline;
+    color: blue;
+}
+
+.parrafo-color{
+    background-color: rgb(177, 233, 25);
+    border-radius: 5px;
+    padding: 10px;
+    color: fff;
+    font-weight: 600;
+}
